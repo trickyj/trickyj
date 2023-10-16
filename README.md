@@ -1,4 +1,4 @@
-# trickyj.github.io
+[**trickyj.github.io**](https://trickyj.github.io/)
 
 <img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/3.gif" height="300px" width="900px" />
 
