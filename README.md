@@ -7,10 +7,8 @@
 
 <a href="https://www.linkedin.com/in/jadhavvicky/"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/trickyj"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100041464388622"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:tricky.j@yahoo.com"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/email.gif" width="40" /></a>
-<a href="https://twitter.com/vickydtricky"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/twitter.png" width="40" /></a>
-<a href="#"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://twitter.com/RosalinaFe9832"><img src="https://github.com/trickyj/vickyj.github.io/blob/master/logos/twitter.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
